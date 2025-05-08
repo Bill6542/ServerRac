@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Server_MariaDB-0.1.0";
 const contentToCache = [
     "Build/WebGL_Build_5.loader.js",
-    "Build/WebGL_Build_5.framework.js.gz",
-    "Build/WebGL_Build_5.data.gz",
-    "Build/WebGL_Build_5.wasm.gz",
+    "Build/WebGL_Build_5.framework.js",
+    "Build/WebGL_Build_5.data",
+    "Build/WebGL_Build_5.wasm",
     "TemplateData/style.css"
 
 ];
